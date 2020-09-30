@@ -48,8 +48,10 @@ Biaya dari Berbisnis dengan **BiCoin** adalah sebagai berikut
    - Anda akan mendapatkan SMS ke nomor HP yang terlah dimasukkan
    - Masukkan kode yang didapat dari SMS
    ![!.3](./assets/images/1.3.jpg) 
+
 2. **Halaman Utama**
 ![0](./assets/images/0.jpg) 
+
 3. **Kelola Barang**
    - Masuk Ke Menu Etalase
    ![2.2](./assets/images/2.1.jpg) 
@@ -75,6 +77,7 @@ Biaya dari Berbisnis dengan **BiCoin** adalah sebagai berikut
      - Pada Halaman Etalase
      - Slide Ke Kanan salah satu barang   
       ![2.5.1](./assets/images/2.5.1.jpg) 
+
 ### Transaksi
 3. Kasir
    - Pada Halaman Utama
@@ -93,6 +96,7 @@ Biaya dari Berbisnis dengan **BiCoin** adalah sebagai berikut
       ![3.7](./assets/images/3.6.jpg) 
    - Selesai 
       ![3.8](./assets/images/3.7.jpg) 
+      
 4. Pencatatan Keuangan
    - Pada Halaman Utama
    - Klik Menu Keuangan
