@@ -79,7 +79,7 @@ Biaya dari Berbisnis dengan **BiCoin** adalah sebagai berikut
       ![2.5.1](./assets/images/2.5.1.jpg) 
 
 ### Transaksi
-3. Kasir
+3. **Kasir**
    - Pada Halaman Utama
    - Klik Menu Kasir
       ![3.1](./assets/images/3.1.jpg) 
@@ -96,8 +96,8 @@ Biaya dari Berbisnis dengan **BiCoin** adalah sebagai berikut
       ![3.7](./assets/images/3.6.jpg) 
    - Selesai 
       ![3.8](./assets/images/3.7.jpg) 
-      
-4. Pencatatan Keuangan
+
+4. **Pencatatan Keuangan**
    - Pada Halaman Utama
    - Klik Menu Keuangan
    - Klik Tombol "+"
