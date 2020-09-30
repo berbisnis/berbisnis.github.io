@@ -82,20 +82,20 @@ Biaya dari Berbisnis dengan **BiCoin** adalah sebagai berikut
 3. **Kasir**
    - Pada Halaman Utama
    - Klik Menu Kasir
-      ![3.1](./assets/images/3.1.jpg) 
+   ![3.1](./assets/images/3.1.jpg) 
    - Klik Tombol "Buka Toko" (Jika belum)
-      ![3.2](./assets/images/3.2.jpg) 
+   ![3.2](./assets/images/3.2.jpg) 
    - Klik Barang yang dijual
-      ![3.4](./assets/images/3.3.jpg) 
+   ![3.4](./assets/images/3.3.jpg) 
    - Klik Tombol dengan Icon "Keranjang"
    - Periksa Data Penjualan
-      ![3.5](./assets/images/3.4.jpg) 
+   ![3.5](./assets/images/3.4.jpg) 
    - Lanjut Pembayaran
-      ![3.6](./assets/images/3.5.jpg) 
+   ![3.6](./assets/images/3.5.jpg) 
    - Pilih Metode Pembayaran
-      ![3.7](./assets/images/3.6.jpg) 
+   ![3.7](./assets/images/3.6.jpg) 
    - Selesai 
-      ![3.8](./assets/images/3.7.jpg) 
+   ![3.8](./assets/images/3.7.jpg) 
 
 4. **Pencatatan Keuangan**
    - Pada Halaman Utama
