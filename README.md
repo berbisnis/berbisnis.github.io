@@ -103,7 +103,6 @@ Biaya dari Berbisnis dengan **BiCoin** adalah sebagai berikut
    <img src="./assets/images/3.4.jpg" width="240"> 
    
    - Lanjut Pembayaran
-   ![3.6](./assets/images/3.5.jpg) 
    <img src="./assets/images/3.5.jpg" width="240"> 
    
    - Pilih Metode Pembayaran
@@ -113,7 +112,7 @@ Biaya dari Berbisnis dengan **BiCoin** adalah sebagai berikut
    <img src="./assets/images/3.7.jpg" width="240"> 
 
 
-1. **Pencatatan Keuangan**
+4. **Pencatatan Keuangan**
    - Pada Halaman Utama
    - Klik Menu Keuangan
    - Klik Tombol "+" 
