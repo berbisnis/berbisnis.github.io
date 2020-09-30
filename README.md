@@ -22,11 +22,14 @@ Berbisnis menggunakan **BiCoin** sebagai sarana bayar *UTAMA* agar dapat terus d
 Tiap data yang tersimpan dalam aplikasi berbisnis akan mengurangi saldo **BiCoin**.
 
 Biaya dari Berbisnis dengan **BiCoin** adalah sebagai berikut
+
 |    Jenis Data    |   Biaya       |
 |------------------|:-------------:|
 | Penjualan        | 10 BiCoin     |
 | Catatan Keuangan | 10 BiCoin     |
+
 ***
+
 ## Tutorial  
 ### Konfigurasi Awal
 1. Login
