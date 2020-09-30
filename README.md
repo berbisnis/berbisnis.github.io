@@ -1,5 +1,6 @@
 # Tutorial Berbisnis
 Berbisnis merupakan aplikasi Penjualan Kasir & Pencatatan Keuangan.
+
 ## Fitur Berbisnis
 - Kasir
 - Kulakan
@@ -32,6 +33,7 @@ Biaya dari Berbisnis dengan **BiCoin** adalah sebagai berikut
 ***
 
 ## Tutorial  
+
 ### Konfigurasi Awal
 1. Login
 2. Kelola Barang
