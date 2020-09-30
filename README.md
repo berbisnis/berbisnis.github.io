@@ -16,6 +16,7 @@ Berbisnis merupakan aplikasi Penjualan Kasir & Pencatatan Keuangan.
 - Sinkronisasi antar device
 - Bicoin
 - Mode Offline
+
 ## Cara kerja
 Berbisnis menggunakan **BiCoin** sebagai sarana bayar *UTAMA* agar dapat terus digunakan. 
 
