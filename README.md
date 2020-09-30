@@ -30,6 +30,11 @@ Biaya dari Berbisnis dengan **BiCoin** adalah sebagai berikut
 | Penjualan        | 10 BiCoin     |
 | Catatan Keuangan | 10 BiCoin     |
 
+### Notes
+- Anda akan mendapatkan 10.000 **BiCoin** gratis saat pendaftaran awal.
+- Anda juga bisa mendapatkan **BiCoin** gratis pada fitur
+*BiCoin Reward* pada halaman Utama
+
 ***
 
 ## Tutorial  
